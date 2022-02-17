@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on China University of Geosciences
-- 🌱 I’m currently learning remote sensing change detection and deep learning
-- 👯 I’m looking to collaborate on scientific insititutes
-- 🤔 I’m looking for help with Graphical Convolution Neural Networl
+- 🔭 I’m currently working on the Institute of Geographic Information Sciences and Natural Resources Research, CAS or UCAS
+- 🌱 I’m currently learning vegetation remote sensing and parameters retrieval  
+- 👯 I’m looking to improve my skills with coding and find awesome tools
+- 🤔 I’m looking for help with doing doctoral researching
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
